@@ -1,0 +1,6 @@
+private void Ocultar_Click(object sender, EventArgs e)
+        {
+            bunifuMaterialTextbox4.isPassword = true;
+            Mostrar.Visible = true;
+            Ocultar.Visible = false;
+        }
